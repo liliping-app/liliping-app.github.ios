@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # app-game
 
 > &quot;game&quot;
@@ -35,3 +36,14 @@ npm run lint
 
 ## 其他
 - 默认安装core-js模块，可用于polyfill，长期有放在构建工具polyfill的打算
+=======
+# liliping-app.github.io
+
+>����Ƽ�ĸ���github
+```
+<span>1</span>
+```
+```
+    <div>����github</div>
+```
+>>>>>>> 9a8df869ba0792e779116b72d8cf30556d980a0e
